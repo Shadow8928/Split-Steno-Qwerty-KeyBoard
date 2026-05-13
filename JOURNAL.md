@@ -9,4 +9,4 @@ created_at: "2026-05-11"
 
 Spent time relearning how to use kicad and sourcing information and schematic/pcb footprints. designed the first half of one side of the split & modular keyboard. 
 
-![schematics][day1.png]
+![schematics](day1.png)
