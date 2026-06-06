@@ -18,3 +18,7 @@ Had to rewrite the Schematics as during the first run the same input gpio button
 ![PCB Right Hand SIde](Day2PCBR.png)
 ![PCB Left Hand SIde](Day2PCBL.png)
 Total time spent: 79 Minutes
+
+# Jun 5
+Realized that the Right Hand Side wasn't what i wanted and had to determine how to fix it. If I kept it the way it was the gpio pins wouldn't connect to the buttons i wanted them to connect to which could result in problems. Had to do some research to determine how to do it how I wanted but eventually found a successful method after trial and error. Have to finish some routing still but mostly complete
+![PCB Right Hand Side](day3PCBR.png)
