@@ -24,7 +24,7 @@ Realized that the Right Hand Side wasn't what i wanted and had to determine how 
 ![PCB Right Hand Side](day3PCBR.png)
 Total time spent: 38 Minutes
 
-#Jun 7
+# Jun 7
 Finished up the right side pcb Routing as i thought it would take 30 minutes so i decided to wait for another day to avoid burnout. I finished the first stage of designing now I sent the current project to see if anyone is available to give feedback. Plan to Work on Code for some time or untill someone provideds feedback on the pcb.
 ![PCB Right Hand Side](day4PCB.png)
 Total time spent: 5 Minutes
