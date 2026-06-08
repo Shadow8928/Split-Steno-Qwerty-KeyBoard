@@ -23,3 +23,9 @@ Total time spent: 79 Minutes
 Realized that the Right Hand Side wasn't what i wanted and had to determine how to fix it. If I kept it the way it was the gpio pins wouldn't connect to the buttons i wanted them to connect to which could result in problems. Had to do some research to determine how to do it how I wanted but eventually found a successful method after trial and error. Have to finish some routing still but mostly complete
 ![PCB Right Hand Side](day3PCBR.png)
 Total time spent: 38 Minutes
+
+#Jun 7
+Finished up the right side pcb Routing as i thought it would take 30 minutes so i decided to wait for another day to avoid burnout. I finished the first stage of designing now I sent the current project to see if anyone is available to give feedback. Plan to Work on Code for some time or untill someone provideds feedback on the pcb.
+![PCB Right Hand Side](day4PCB.png)
+Total time spent: 5 Minutes
+
