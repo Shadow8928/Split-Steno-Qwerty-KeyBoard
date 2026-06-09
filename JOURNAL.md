@@ -33,3 +33,9 @@ Total time spent: 5 Minutes
 Wanted to start on the QMK programming so i spent some time learning how to implement it into the PCB. While learning i determined that I forgot to add an additional 5 keys which would mean that the keyboard couldn't do stenography in its detached mode. Modified the schematics to include the 5 additional keys then started on the Wiring on the Left side. Finished the wiring on the Left side but plan to leave the right side for Tommorow as it is late and I want to avoid burnout in order to be able to work on the projects consistantly vs big bursts.
 ![PCB Left Hand Side modified](DAy5PCBL.png)
 Total time spent: 72 Minutes
+
+# Jun 9
+Finished wiring the Right side of the PCB and also decided to review all of the warnings on both sides to prevent any future problems.
+
+![PCB Right Hand Side Wired and removed of warnings](Day6PCBR.png)
+![PCB Left Hand Side Wired and removed of warnings](Day6PCBL.png)
