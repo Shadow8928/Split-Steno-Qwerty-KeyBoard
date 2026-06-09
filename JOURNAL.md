@@ -29,3 +29,7 @@ Finished up the right side pcb Routing as i thought it would take 30 minutes so 
 ![PCB Right Hand Side](day4PCB.png)
 Total time spent: 5 Minutes
 
+# Jun 8
+Wanted to start on the QMK programming so i spent some time learning how to implement it into the PCB. While learning i determined that I forgot to add an additional 5 keys which would mean that the keyboard couldn't do stenography in its detached mode. Modified the schematics to include the 5 additional keys then started on the Wiring on the Left side. Finished the wiring on the Left side but plan to leave the right side for Tommorow as it is late and I want to avoid burnout in order to be able to work on the projects consistantly vs big bursts.
+![PCB Left Hand Side modified](DAy5PCBL.png)
+Total time spent: 72 Minutes
