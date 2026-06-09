@@ -39,3 +39,4 @@ Finished wiring the Right side of the PCB and also decided to review all of the 
 
 ![PCB Right Hand Side Wired and removed of warnings](Day6PCBR.png)
 ![PCB Left Hand Side Wired and removed of warnings](Day6PCBL.png)
+Total time spent: 65 Minutes
