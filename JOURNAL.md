@@ -45,5 +45,5 @@ Total time spent: 65 Minutes
 Worked and finished both the extension pcbs of the keyboard. The Wiring and PCB placement was simpler and faster than usual die to the simpler design of the extension board. Plan to work on firmware next.
 
 ![PCB Left Hand Side Extension Board](Day7extensionPCBL.png)
-![PCB Right Hand Side Extension Board](Day7extensionPCBR.png)
+![PCB Right Hand Side Extension Board](Day7extensionPCBR.png.png)
 Total time spent: 54 Minutes
