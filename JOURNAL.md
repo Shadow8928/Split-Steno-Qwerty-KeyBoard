@@ -52,6 +52,6 @@ Total time spent: 54 Minutes
 
 # Jun 18
 Finally got the chance to ork on firmware and created the rough outline of the code in QMK, also learned that i need to create new port on the pcb so that the 2 halfs can connect to one another. Spent a lot of time learning how to add a second type c port to the pcb so that I can connect the 2 halves together.
-![firmware](Screenshot From 2026-06-18 04-02-25.png)
+![firmware](Day8Firmware.png)
 Total time spent: 40 Minutes
 
