@@ -47,3 +47,13 @@ Worked and finished both the extension pcbs of the keyboard. The Wiring and PCB 
 ![PCB Left Hand Side Extension Board](Day7extensionPCBL.png)
 ![PCB Right Hand Side Extension Board](Day7extensionPCBR.png.png)
 Total time spent: 54 Minutes
+
+
+
+# Jun 18
+Finally got the chance to ork on firmware and created the rough outline of the code in QMK, also learned that i need to create new port on the pcb so that the 2 halfs can connect to one another. Spent a lot of time learning how to add a second type c port to the pcb so that I can connect the 2 halves together.
+
+Total time spent: 40 Minutes
+
+
+#
