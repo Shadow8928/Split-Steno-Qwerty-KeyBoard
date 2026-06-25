@@ -51,7 +51,11 @@ Total time spent: 54 Minutes
 
 
 # Jun 18
-Finally got the chance to ork on firmware and created the rough outline of the code in QMK, also learned that i need to create new port on the pcb so that the 2 halfs can connect to one another. Spent a lot of time learning how to add a second type c port to the pcb so that I can connect the 2 halves together.
+Finally got the chance to work on firmware and created the rough outline of the code in QMK, also learned that i need to create new port on the pcb so that the 2 halfs can connect to one another. Spent a lot of time learning how to add a second type c port to the pcb so that I can connect the 2 halves together.
 ![firmware](Day8Firmware.png)
 Total time spent: 40 Minutes
 
+# Jun 25
+More Reasearch into adding a type C in order to connect the 2 picos together then then modified the schematic and pcbs. 
+![PCB](day9pcb.png)
+Total time spent: 60 Minutes
