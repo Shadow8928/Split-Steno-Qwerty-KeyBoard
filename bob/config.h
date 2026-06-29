@@ -1,0 +1,9 @@
+#pragma once
+
+#define SOFT_SERIAL_PIN GP21
+
+#define SPLIT_HAND_PIN GP22
+
+#define MASTER_LEFT
+
+#define SERIAL_USE_MULTI_TRANSACTION

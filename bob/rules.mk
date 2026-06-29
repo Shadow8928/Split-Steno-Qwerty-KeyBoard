@@ -1,0 +1,3 @@
+SPLIT_KEYBOARD = yes
+STENO_ENABLE = yes
+NKRO_ENABLE = yes
