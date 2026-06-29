@@ -55,7 +55,15 @@ Finally got the chance to work on firmware and created the rough outline of the 
 ![firmware](Day8Firmware.png)
 Total time spent: 40 Minutes
 
+
+
 # Jun 25
 More Reasearch into adding a type C in order to connect the 2 picos together then then modified the schematic and pcbs. 
 ![PCB](day9pcb.png)
 Total time spent: 60 Minutes
+
+#Jun 29
+Finished a QMK firmware that succesfully compiles and should have all the required features of the kayboard. Also worked on a case for the left side of the kayboard and have a mostly finished version of the case.
+
+![case](kayboard_case.png)
+Total time spent: 50 Minutes
