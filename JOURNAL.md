@@ -62,7 +62,7 @@ More Reasearch into adding a type C in order to connect the 2 picos together the
 ![PCB](day9pcb.png)
 Total time spent: 60 Minutes
 
-#Jun 29
+# Jun 29
 Finished a QMK firmware that succesfully compiles and should have all the required features of the kayboard. Also worked on a case for the left side of the kayboard and have a mostly finished version of the case.
 
 ![case](kayboard_case.png)
