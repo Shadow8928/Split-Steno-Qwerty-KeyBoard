@@ -69,8 +69,17 @@ Finished a QMK firmware that succesfully compiles and should have all the requir
 Total time spent: 50 Minutes
 
 # Jul 4
-I had previously taken the left side and made the type c port that connects the 2 cables on the back side due to it being easier for me to route on the back side and didn't know about vias. after learning about vias from a youtube video and realizing the problems with having the type c port on the bottom of the pcb i moved it to the other side and connected it.
+I had previously taken the left side and made the type c port that connects the 2 cables on the back side due to it being easier for me to route on the back side and didn't know about vias. after learning about vias from a youtube video and realizing the problems with having the type c port on the bottom of the pcb i moved it to the other side and connected it. I later decided to source the parts of the project
+| Part    | Quantity | Price |
+| -------- | ------- |
+| Type C recepticle 5 pack  |  1 | $2.44|
+| RaspBerry Pi Pico | 2     |$5.20|
+| Pogo connector 5 pack    | 1    |$1.23|
+|Diodes 100pc|1|$1.88|
+|Mechanical switches 50pc|1|$9.55|
+|Total keyboard|1|$20.30|
 ![pcb](day10pcb.png)
-Total time spent: 7 Minutes
+![parts](part.png)
+Total time spent: 34 Minutes
 
 
