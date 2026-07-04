@@ -80,6 +80,6 @@ I had previously taken the left side and made the type c port that connects the 
 |Total keyboard|1|$20.30|
 ![pcb](day10pcb.png)
 ![parts](part.png)
-Total time spent: 34 Minutes
+Total time spent: 36 Minutes
 
 
