@@ -67,3 +67,10 @@ Finished a QMK firmware that succesfully compiles and should have all the requir
 
 ![case](kayboard_case.png)
 Total time spent: 50 Minutes
+
+# Jul 4
+I had previously taken the left side and made the type c port that connects the 2 cables on the back side due to it being easier for me to route on the back side and didn't know about vias. after learning about vias from a youtube video and realizing the problems with having the type c port on the bottom of the pcb i moved it to the other side and connected it.
+![pcb](day10pcb.png)
+Total time spent: 7 Minutes
+
+
