@@ -85,5 +85,6 @@ Total time spent: 36 Minutes
 # Nov 25
 Fixed all the reasons the project was returned added gerber files, converted stl to step, added more details to the read.md, verified the chematic is correct and as i want it, i also uploaded the full kicad files that i used to make and work on this project. HERE IS A PICTURE OF THE CORRECT SCHEMATIC(i think)
 ![Schematics](Photos/Day2Schem.png)
+Total time spent: 15 Minutes
 
 
